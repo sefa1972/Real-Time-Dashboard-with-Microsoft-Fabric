@@ -52,7 +52,8 @@ bikes
 1. Navigate to workspace settings
 2. Select "Remove this workspace"
 
-# 👤 Yazar >> Sefa Öztürk
+# 👤 Author: Sefa Öztürk
+
 BT Stajyeri | Azure Veri Mühendisi devam ediyor
 
 📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
